@@ -1,0 +1,8 @@
+{
+  "markdownlint.config": {
+    "MD007": {
+      "indent": 4
+    },
+    "MD010": false
+  }
+}
