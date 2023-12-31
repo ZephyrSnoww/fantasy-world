@@ -1,7 +1,7 @@
 # Tundraysseis, Bringer of Death
 
 - Furred dragon
-- Lives in the wilderness outside of [[city-1]]
+- Lives in the wilderness outside of [Velusia](/countries/country-1/velusia/Velusia.md)
 - Has built a little makeshift place for herself
 
 ## Brainstorming
