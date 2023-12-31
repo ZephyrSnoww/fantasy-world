@@ -1,8 +1,19 @@
 # Tundraysseis, Bringer of Death
 
+Tundraysseis, or Tundra, is a young adult furred dragon with black and grey fur and light pink accent coloring. She recently moved into the forest outside of [Velusia](/countries/country-1/velusia/Velusia.md), and has built a makeshift little place to live in the time she's been there. She's soft, and while she's not incompetent, she's not the brightest either. She can survive on her own, but that's greatly helped by the fact that she's one of the largest mammalian species on the planet and thus doesn't have to worry about predators very much.
+
+## Childhood
+
+She grew up in dragon society, raised by parents that felt very strongly about draconic beliefs. Growing up, she was told that humanoid species are lesser than dragons, and will attack out of jealousy or fear. Her parents tried to teach her to value glory and prestige, and see gold as valuable above all else. She never understood it, but could pretend well enough to pass just fine. She never went out of her way to collect gold, though, which her parents noticed. Her attention was grabbed by
+
 - Furred dragon
-- Lives in the wilderness outside of [Velusia](/countries/country-1/velusia/Velusia.md)
-- Has built a little makeshift place for herself
+- Young adult
+- Lives in the forest outside of [Velusia](/countries/country-1/velusia/Velusia.md)
+    - Only started living in the forest relatively recently
+    - Has built a little makeshift place for herself
+- Doesn't want to hurt people
+- Grew up in a society that is very focused on glory and riches, and thus hurting people
+- Struggles with thinking humanoids are "lesser" than dragons
 
 ## Brainstorming
 
@@ -52,8 +63,8 @@
             - hasn't been attacked yet because she's new in the area?
             - or just, people know she's on her own and far from any other dragons, but she's still a dragon and nearly everyone is still very afraid of that alone
             - combo of both probably
-    - moved to where she is relatively recently
-    - was driven out of where she lived previously?
-        - by dragons or by people?
+- moved to where she is relatively recently
+- was driven out of where she lived previously?
+    - by dragons or by people?
 
 ![Tundra, a black and grey furred dragon with pink accents, laying on her back and smiling](/images/people/tundra-sfw.png)
