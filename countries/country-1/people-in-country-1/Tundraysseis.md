@@ -6,9 +6,6 @@
 
 ## Brainstorming
 
-- asdf
-    - asdfjkl
-
 - she really just wants to make her own little place
     - maybe wants to be able to share it with others?
         - ~~sad she cant because people fear her?~~
