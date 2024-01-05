@@ -10,10 +10,10 @@ The countries folder contains a folder for each country. Each of those folders c
 
 ### Races
 
-- Dragons
 - Dragonborns
 - Kobolds
 - Goblins
+- [Dragons](races/dragons.md)
 
 #### Substitutions
 
