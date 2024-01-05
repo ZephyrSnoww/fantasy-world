@@ -1,10 +1,10 @@
 # Tundraysseis, Bringer of Death
 
-Tundraysseis, or Tundra, is a young adult furred [dragon](/races/dragons.md) with black and grey fur and light pink accent coloring. She recently moved into the forest outside of [Velusia](/countries/country-1/velusia/velusia.md), and has built a makeshift little place to live in the time she's been there. She's soft, and while she's not incompetent, she's not the brightest either. She can survive on her own, but that's greatly helped by the fact that she's one of the largest mammalian species on the planet and thus doesn't have to worry about predators very much.
+Tundraysseis, or Tundra, is a young adult furred [dragon](/races/dragons.md) with black and grey fur and light pink accent coloring. She recently moved into [Kylma](/countries/country-1/places-in-country-1/kylma.md), outside of [Velusia](/countries/country-1/velusia/velusia.md), and has built a makeshift place to live in the time she's been there. She's soft, and while she's not incompetent, she's not the brightest either. She can survive on her own, but that's greatly helped by the fact that she's one of the largest mammalian species on the planet and thus doesn't have to worry about predators very much.
 
 ## Childhood
 
-She grew up in dragon society, raised by parents that felt very strongly about draconic beliefs. Growing up, she was told that humanoid species are lesser than dragons, and will attack out of jealousy or fear. Her parents tried to teach her to value glory and prestige, and see gold as valuable above all else. She never understood it, but could pretend well enough to pass just fine. She never went out of her way to collect gold, though, which her parents noticed. Her attention was grabbed by
+She grew up in dragon society, raised by parents that felt very strongly about draconic beliefs. Growing up, she was told that humanoid species are lesser than dragons, and will attack out of jealousy or fear. Her parents tried to teach her to value glory and prestige, and see gold as valuable above all else. She never understood it, but could pretend well enough to pass just fine. She never went out of her way to collect gold, though, which her parents noticed. Her attention was instead grabbed by
 
 - Furred dragon
 - Young adult
