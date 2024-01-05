@@ -1,6 +1,6 @@
 # Tundraysseis, Bringer of Death
 
-Tundraysseis, or Tundra, is a young adult furred dragon with black and grey fur and light pink accent coloring. She recently moved into the forest outside of [Velusia](/countries/country-1/velusia/Velusia.md), and has built a makeshift little place to live in the time she's been there. She's soft, and while she's not incompetent, she's not the brightest either. She can survive on her own, but that's greatly helped by the fact that she's one of the largest mammalian species on the planet and thus doesn't have to worry about predators very much.
+Tundraysseis, or Tundra, is a young adult furred [dragon](/races/dragons.md) with black and grey fur and light pink accent coloring. She recently moved into the forest outside of [Velusia](/countries/country-1/velusia/velusia.md), and has built a makeshift little place to live in the time she's been there. She's soft, and while she's not incompetent, she's not the brightest either. She can survive on her own, but that's greatly helped by the fact that she's one of the largest mammalian species on the planet and thus doesn't have to worry about predators very much.
 
 ## Childhood
 
@@ -8,7 +8,7 @@ She grew up in dragon society, raised by parents that felt very strongly about d
 
 - Furred dragon
 - Young adult
-- Lives in the forest outside of [Velusia](/countries/country-1/velusia/Velusia.md)
+- Lives in the forest outside of [Velusia](/countries/country-1/velusia/velusia.md)
     - Only started living in the forest relatively recently
     - Has built a little makeshift place for herself
 - Doesn't want to hurt people
