@@ -65,6 +65,8 @@ She grew up in dragon society, raised by parents that felt very strongly about d
       - combo of both probably
 - moved to where she is relatively recently
 - was driven out of where she lived previously?
-  - by dragons or by people?
+  - by dragons or by people?[^1]
 
 ![Tundra, a black and grey furred dragon with pink accents, laying on her back and smiling](/images/people/tundra-sfw.png)
+
+[^1]: I'm too tired to read all this srry
