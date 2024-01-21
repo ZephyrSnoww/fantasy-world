@@ -1,0 +1,3 @@
+- desert/oasis or tropical coast where the sunlight is always golden and the clouds are irredecent
+- tiny port-town island, whos ports, docks, and buildings have far outgrown the island itself, becoming something akin to venice
+- huge remote city in the middle of the desert. its hoast to a bustling trade network and a famous bazaar (like the artwork for High Market)
